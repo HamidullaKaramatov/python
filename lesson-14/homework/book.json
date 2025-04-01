@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Kitob Nomlari 1",
+        "author": "Muallif 1",
+        "year": 2021
+    },
+    {
+        "id": 2,
+        "title": "Kitob Nomlari 2",
+        "author": "Muallif 2",
+        "year": 2020
+    }
+]
